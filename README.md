@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://github.com/jamalkaksouri/NFT_React_Design/blob/master/public/coverImagesApp/img-app1.png">
-  <img src="https://github.com/jamalkaksouri/NFT_React_Design/blob/master/public/coverImagesApp/img-app2.png">
-  <img src="https://github.com/jamalkaksouri/NFT_React_Design/blob/master/public/coverImagesApp/img-app3.png">
-  <img src="https://github.com/jamalkaksouri/NFT_React_Design/blob/master/public/coverImagesApp/img-app4.png">
-</p>
+|                                                                                                              |                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| <img src="https://github.com/jamalkaksouri/NFT_React_Design/blob/master/public/coverImagesApp/img-app1.png"> | <img src="https://github.com/jamalkaksouri/NFT_React_Design/blob/master/public/coverImagesApp/img-app2.png"> |
+| <img src="https://github.com/jamalkaksouri/NFT_React_Design/blob/master/public/coverImagesApp/img-app3.png"> | <img src="https://github.com/jamalkaksouri/NFT_React_Design/blob/master/public/coverImagesApp/img-app4.png"> |
 
 # Getting Started with Create React App
 
